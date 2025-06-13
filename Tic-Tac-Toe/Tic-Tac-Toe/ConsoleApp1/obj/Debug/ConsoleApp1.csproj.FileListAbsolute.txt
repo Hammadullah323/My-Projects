@@ -1,0 +1,7 @@
+E:\Mobile\New folder (3)\PF\Project\Tic-Tac-Toe\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+E:\Mobile\New folder (3)\PF\Project\Tic-Tac-Toe\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+E:\Mobile\New folder (3)\PF\Project\Tic-Tac-Toe\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+E:\Mobile\New folder (3)\PF\Project\Tic-Tac-Toe\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+E:\Mobile\New folder (3)\PF\Project\Tic-Tac-Toe\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+E:\Mobile\New folder (3)\PF\Project\Tic-Tac-Toe\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+E:\Mobile\New folder (3)\PF\Project\Tic-Tac-Toe\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
